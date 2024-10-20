@@ -49,6 +49,7 @@ nav a.active {
 h1 {
   text-align: center;
   color: #333;
+  text-decoration: underline;
 }
 
 p {
